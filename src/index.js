@@ -7,6 +7,7 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <meta http-equiv="refresh" content="0; url=https://playcsgo.github.io/coffee_frontend/"></meta>
     <App />
   </React.StrictMode>
 );
